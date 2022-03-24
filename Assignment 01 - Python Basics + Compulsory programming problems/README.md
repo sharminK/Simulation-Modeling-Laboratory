@@ -1,1 +1,2 @@
-<a href="https://github.com/sharminK.github.io/Python Basics + Compulsory programming problems/Python Practice Problems.pdf" target="_blank">PDF.</a>
+
+[Python Practice Problems.pdf](https://github.com/sharminK/Simulation-Modeling-Laboratory/files/8342690/Python.Practice.Problems.pdf)
