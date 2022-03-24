@@ -1,0 +1,1 @@
+<a href="https://github.com/sharminK.github.io/Assignment%2001%20-%20Python%20Basics%20%2B%20Compulsory%20programming%20problems/Python Practice Problems.pdf" target="_blank">PDF.</a>
