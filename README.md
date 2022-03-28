@@ -32,5 +32,6 @@
 # Online Assignments
 
 * Online Assignment 01 - Compulsory programming problems + Bufffon's needle simulation and area of Pi
+* Online Assignment 02 - Serial Chase topic
 
 
