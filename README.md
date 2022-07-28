@@ -1,15 +1,16 @@
-# Structured-Programming-Language
+# Simulation-Modeling-Laboratory
 
 * Sharmin Akter
 
 * Department of Computer Science And Engineering, United International University, Dhaka.
 
-* Course Title: Structured Programming Language
-* Course Code: CSE 1111
+* Course Title: Simulation & Modeling Laboratory
 
-* Instructor: Md. Mumtahin Habib Ullah
+* Course Code: CSI 424
 
-* Email: mumtahin@cse.uiu.ac.bd
+* Instructor: Md. Salman Shamil
+
+* Email: salman@cse.uiu.ac.bd
 
 # Author
 
@@ -19,6 +20,22 @@
 
 * [@sharminK](https://github.com/sharminK)
 
+# Offline Assignments
 
+* Assignment 01 - Python Basics + Compulsory programming problems
+
+* Assignment 02 - Buffon’s Needle experiment Implementation
+
+* Assignment 03 - Monte Carlo Area + Monte Carlo Integration + Game of Life
+
+* Assignment 04 - Random Number Generator
+
+
+
+# Online Assignments
+
+* Online Assignment 01 - Compulsory programming problems + Bufffon's needle simulation and area of Pi
+* Online Assignment 02 - Serial Chase topic
+* Online Assignment 03- Random Number Generator
 
 
